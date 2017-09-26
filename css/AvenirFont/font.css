@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Avenir-Black';
+  src: url('Avenir-Black.woff') format('woff'),
+       url('Avenir-Black.ttf') format('truetype'),
+       url('Avenir-Black.svg#Avenir-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-BlackOblique';
+  src: url('Avenir-BlackOblique.woff') format('woff'),
+       url('Avenir-BlackOblique.ttf') format('truetype'),
+       url('Avenir-BlackOblique.svg#Avenir-BlackOblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Book';
+  src: url('Avenir-Book.woff') format('woff'),
+       url('Avenir-Book.ttf') format('truetype'),
+       url('Avenir-Book.svg#Avenir-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-BookOblique';
+  src: url('Avenir-BookOblique.woff') format('woff'),
+       url('Avenir-BookOblique.ttf') format('truetype'),
+       url('Avenir-BookOblique.svg#Avenir-BookOblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Heavy';
+  src: url('Avenir-Heavy.woff') format('woff'),
+       url('Avenir-Heavy.ttf') format('truetype'),
+       url('Avenir-Heavy.svg#Avenir-Heavy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-HeavyOblique';
+  src: url('Avenir-HeavyOblique.woff') format('woff'),
+       url('Avenir-HeavyOblique.ttf') format('truetype'),
+       url('Avenir-HeavyOblique.svg#Avenir-HeavyOblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Light';
+  src: url('Avenir-Light.woff') format('woff'),
+       url('Avenir-Light.ttf') format('truetype'),
+       url('Avenir-Light.svg#Avenir-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-LightOblique';
+  src: url('Avenir-LightOblique.woff') format('woff'),
+       url('Avenir-LightOblique.ttf') format('truetype'),
+       url('Avenir-LightOblique.svg#Avenir-LightOblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Medium';
+  src: url('Avenir-Medium.woff') format('woff'),
+       url('Avenir-Medium.ttf') format('truetype'),
+       url('Avenir-Medium.svg#Avenir-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-MediumOblique';
+  src: url('Avenir-MediumOblique.woff') format('woff'),
+       url('Avenir-MediumOblique.ttf') format('truetype'),
+       url('Avenir-MediumOblique.svg#Avenir-MediumOblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Oblique';
+  src: url('Avenir-Oblique.woff') format('woff'),
+       url('Avenir-Oblique.ttf') format('truetype'),
+       url('Avenir-Oblique.svg#Avenir-Oblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Roman';
+  src: url('Avenir-Roman.woff') format('woff'),
+       url('Avenir-Roman.ttf') format('truetype'),
+       url('Avenir-Roman.svg#Avenir-Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
